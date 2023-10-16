@@ -18,7 +18,7 @@ This README file provides an overview of the Home Loan dataset and instructions 
 The Home Loan dataset consists of the following columns:
 
 - **Customer ID**: A unique identifier for each customer.
-- **Loan Application Date**: The date when the customer applied for a home loan.
+- **Loan Application**: The date when the customer applied for a home loan.
 - **Sanction Amount**: The amount of the loan that was approved and sanctioned to the customer.
 - **Recovery Amount**: The amount recovered from the customer, typically through loan repayments.
 - **Products**: The type of home loan product the customer applied for.
