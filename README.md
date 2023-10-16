@@ -41,9 +41,11 @@ To create visualizations for the Home Loan dataset using Power BI, follow these 
 4. **Data Modeling**:
    - Create relationships between tables if necessary.
    - Define calculated columns or measures for more complex calculations.
+   - DAX measures used like SUM, SUMX, COUNT, IF, CALCULATE, FILTER, DIVIDE, AVERAGE
 
 5. **Data Visualization**:
-   - Use the various visualizations available in Power BI, such as bar charts, pie charts, tables, and maps, to represent the data in a meaningful way.
+   - Used the various visualizations available in Power BI, such as bar charts, pie charts, tables, and maps, to represent the data in a meaningful way.
+   - Used Key Influencers AI Visual, Slicers, and KPIs.
 
 6. **Customization and Formatting**:
    - Customize the visuals, add titles, and format your report to make it visually appealing and easy to understand.
@@ -70,4 +72,4 @@ Here are some examples of visualizations you can create using Power BI with the 
 
 ## 5. Conclusion
 
-With Power BI, i have turned Home Loan dataset into insightful and interactive visualizations and built a 4-page report, enabling to make data-driven decisions and gain valuable insights into the home loan business. Experimented with different visualizations and explore the data to uncover trends, patterns, and opportunities.
+With Power BI, I have turned the Home Loan dataset into insightful and interactive visualizations and built a 4-page report, enabling me to make data-driven decisions and gain valuable insights into the home loan business. Experimented with different visualizations and explored the data to uncover trends, patterns, and opportunities.
