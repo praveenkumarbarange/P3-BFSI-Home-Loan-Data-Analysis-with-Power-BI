@@ -47,6 +47,8 @@ To create visualizations for the Home Loan dataset using Power BI, follow these 
    - Used the various visualizations available in Power BI, such as bar charts, pie charts, tables, and maps, to represent the data in a meaningful way.
    - Used Key Influencers AI Visual, Slicers, and KPIs.
 
+![Uploading 1.png…]()
+
 6. **Customization and Formatting**:
    - Customize the visuals, add titles, and format your report to make it visually appealing and easy to understand.
 
