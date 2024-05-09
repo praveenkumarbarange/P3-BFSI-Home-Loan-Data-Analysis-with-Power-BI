@@ -60,6 +60,9 @@ Here are some examples of visualizations you can create using Power BI with the 
 
 - **Loan Application Trend**: Line chart showing the trend of loan applications over time.
 
+![2](https://github.com/praveenkumarbarange/P3-BFSI-Home-Loan-Data-Analysis/assets/52094094/0e0a8e56-45e9-40b1-9a6b-62ac4851d384)
+
+
 - **Sanctioned Amount by Product**: A stacked column chart showing the sanctioned amounts for each product category.
 
 - **Recovery Amount vs. Sanctioned Amount**: A scatter plot to analyze the relationship between recovery amounts and sanctioned amounts.
